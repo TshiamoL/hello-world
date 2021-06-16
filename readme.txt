@@ -1,2 +1,2 @@
-Hello again!
-midnight
+Hello world again!
+midnight.
